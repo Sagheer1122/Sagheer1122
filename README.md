@@ -104,14 +104,22 @@ Right now I'm finishing my Final Year Project — **CampusConnect** — a full M
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sagheer1122&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagheer1122&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27" height="165"/>
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=Sagheer1122&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&count_private=true" width="100%"/></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagheer1122&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27" width="100%"/></td>
+</tr>
+</table>
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Sagheer1122&theme=radical&hide_border=true&background=1a1b27"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Sagheer1122&theme=radical&hide_border=true&background=1a1b27" width="65%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sagheer1122&theme=radical&no-frame=true&row=1&column=6&margin-w=8"/>
+### 🏆 Trophy Case
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sagheer1122&theme=react-dark&hide_border=true&bg_color=1a1b27"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Sagheer1122&theme=radical&no-frame=true&row=1&column=6&margin-w=10&margin-h=10"/>
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Sagheer1122/Sagheer1122/output/github-contribution-grid-snake.svg" width="100%"/>
 
 </div>
 
