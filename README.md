@@ -22,7 +22,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=3&section=header&animation=fadeIn" width="100%"/>
 
 ## 🧑‍💻 About Me
 
@@ -43,7 +43,7 @@ Right now I'm finishing my Final Year Project — **CampusConnect** — a full M
 
 <br clear="right"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=3&section=header&animation=fadeIn" width="100%"/>
 
 ## ⚙️ Tech Stack
 
@@ -67,7 +67,7 @@ Right now I'm finishing my Final Year Project — **CampusConnect** — a full M
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=3&section=header&animation=fadeIn" width="100%"/>
 
 ## 🚀 Featured Projects
 
@@ -98,7 +98,7 @@ Right now I'm finishing my Final Year Project — **CampusConnect** — a full M
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=3&section=header&animation=fadeIn" width="100%"/>
 
 ## 📊 GitHub Analytics
 
@@ -123,9 +123,11 @@ Right now I'm finishing my Final Year Project — **CampusConnect** — a full M
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=3&section=header&animation=fadeIn" width="100%"/>
 
 ## 🎯 Currently
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=00C9FF&center=false&vCenter=true&width=600&lines=Finishing+FYP+documentation+for+CampusConnect...;Prepping+for+technical+interviews...;Applying+for+junior+%2F+remote+roles...;Building+creative+side+projects+for+fun+%F0%9F%8E%A8"/>
 
 - 🚀 Finishing FYP documentation for **CampusConnect**
 - 💻 Preparing for technical interviews — React, Node, Rails, DSA, Databases
