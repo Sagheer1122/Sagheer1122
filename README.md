@@ -100,18 +100,6 @@ Right now I'm finishing my Final Year Project — **CampusConnect** — a full M
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=3&section=header&animation=fadeIn" width="100%"/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<table>
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=Sagheer1122&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&count_private=true" width="100%"/></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagheer1122&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27" width="100%"/></td>
-</tr>
-</table>
-
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Sagheer1122&theme=radical&hide_border=true&background=1a1b27" width="65%"/>
 
 ### 🏆 Trophy Case
 
