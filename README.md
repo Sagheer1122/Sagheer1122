@@ -71,21 +71,6 @@ Right now I'm finishing my Final Year Project — **CampusConnect** — a full M
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/PASHA11789/CampusConnect">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PASHA11789&repo=CampusConnect&theme=radical&hide_border=true&bg_color=1a1b27"/>
-</a>
-<a href="https://github.com/Sagheer1122/Hotel-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sagheer1122&repo=Hotel-Management-System&theme=radical&hide_border=true&bg_color=1a1b27"/>
-</a>
-
-<a href="https://github.com/Sagheer1122/The-TaxMan-s-Capital">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sagheer1122&repo=The-TaxMan-s-Capital&theme=radical&hide_border=true&bg_color=1a1b27"/>
-</a>
-
-</div>
-
 **🎓 CampusConnect** — Full MERN university portal (FYP). Forums, food ordering, lost & found, petitions, career hub, bus routes, surveys. Real-time via Socket.io, AI moderation via Groq/GenAI, deployed on Vercel.
 
 **🏨 Hotel Management System** — Full-stack hotel booking platform (HavenHotels) showcasing React + Rails end-to-end.
